@@ -1,0 +1,13 @@
+{
+    "gitbook": "3.2.2",
+    "plugins": [
+        "include-codeblock",
+        "advanced-emoji",
+        "prism",
+        "-highlight",
+        "copy-code-button",
+        "anchorjs",
+        "expandable-chapters",
+        "hints"
+    ]
+}

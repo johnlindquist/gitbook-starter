@@ -1,0 +1,28 @@
+{
+    "name": "book",
+    "version": "0.0.1",
+    "description": "I put stuff here. You can read it if you'd like :balloon:",
+    "dependencies": {
+        "serve": "^5.0.3"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.18.8",
+        "del": "^2.2.2",
+        "gitbook": "^3.2.2",
+        "gitbook-cli": "^2.3.0",
+        "gitbook-plugin-advanced-emoji": "^0.2.1",
+        "gitbook-plugin-anchorjs": "^1.1.1",
+        "gitbook-plugin-copy-code-button": "^0.0.2",
+        "gitbook-plugin-include-codeblock": "^3.0.2",
+        "gitbook-plugin-prism": "^2.2.0",
+        "gulp": "^3.9.1",
+        "path": "^0.12.7"
+    },
+    "scripts": {
+        "start": "serve ./_book",
+        "dev": "gulp"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
