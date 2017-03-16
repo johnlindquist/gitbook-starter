@@ -9,5 +9,8 @@
         "anchorjs",
         "expandable-chapters",
         "hints"
-    ]
+    ],
+    "styles": {
+        "website": "styles/website.css"
+    }
 }

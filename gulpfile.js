@@ -6,7 +6,7 @@ var path = require("path");
 var del = require("del");
 
 // path of your *.md book files
-var bookPath = path.join(__dirname, "book");
+var bookPath = path.join(__dirname);
 
 // output path where generated *.html will be stored
 var outputPath = path.join(__dirname, "_book");
